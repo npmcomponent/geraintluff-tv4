@@ -1,3 +1,4 @@
+*This repository is a mirror of the [component](http://component.io) module [geraintluff/tv4](http://github.com/geraintluff/tv4). It has been modified to work with NPM+Browserify. You can install it using the command `npm install npmcomponent/geraintluff-tv4`.*
 # Tiny Validator (for v4 JSON Schema)
 
 [![Build Status](https://secure.travis-ci.org/geraintluff/tv4.png?branch=master)](http://travis-ci.org/geraintluff/tv4) [![Dependency Status](https://gemnasium.com/geraintluff/tv4.png)](https://gemnasium.com/geraintluff/tv4) [![NPM version](https://badge.fury.io/js/tv4.png)](http://badge.fury.io/js/tv4)
